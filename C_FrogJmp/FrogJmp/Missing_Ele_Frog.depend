@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591538442 source:f:\studia\do_testow\codility\c_frogjmp\frogjmp\main.c
+	<stdio.h>
+	<stdlib.h>
+
